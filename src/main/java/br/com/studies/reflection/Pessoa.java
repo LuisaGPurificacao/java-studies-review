@@ -1,10 +1,10 @@
-package br.com.studies.model;
+package br.com.studies.reflection;
 
 public class Pessoa {
 
-    private Integer id;
-    private String nome;
-    private String cpf;
+    Integer id;
+    String nome;
+    String cpf;
 
     public Pessoa(Integer id, String nome, String cpf){
         this.id = id;

@@ -1,0 +1,8 @@
+br\com\studies\reflection\ObjectToJson.class
+br\com\studies\reflection\PessoaDto.class
+br\com\studies\reflection\service\PessoaService.class
+br\com\studies\Main.class
+br\com\studies\reflection\Endereco.class
+br\com\studies\reflection\Pessoa.class
+br\com\studies\reflection\repository\PessoaRepository.class
+br\com\studies\reflection\Transformator.class

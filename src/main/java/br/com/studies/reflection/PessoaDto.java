@@ -1,9 +1,12 @@
-package br.com.studies.dto;
+package br.com.studies.reflection;
 
 public class PessoaDto {
 
-    private String nome;
-    private String cpf;
+    String nome;
+    String cpf;
+
+    public PessoaDto(){
+    }
 
     public PessoaDto(String nome, String cpf){
         this.nome = nome;

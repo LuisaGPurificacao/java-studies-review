@@ -1,6 +1,6 @@
-package br.com.studies.repository;
+package br.com.studies.reflection.repository;
 
-import br.com.studies.model.Pessoa;
+import br.com.studies.reflection.Pessoa;
 
 import java.util.ArrayList;
 import java.util.List;
